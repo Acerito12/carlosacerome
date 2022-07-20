@@ -1,0 +1,25 @@
+:root {
+    --blue: #1A9BDF;
+    --white: #FFFFFF;
+    --light-gray: #E7EBED;
+}
+
+html,body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Roboto", sans-serif
+}
+
+.body_back {
+    background-color: var(--light-gray);
+}
+
+.theme_color {
+    color: var(--blue);
+}
+
+.theme_back {
+    background-color: var(--blue);
+}
+
+.font_white {
+    color: var(--white);
+}
