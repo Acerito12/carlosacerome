@@ -20,6 +20,6 @@ html,body,h1,h2,h3,h4,h5,h6 {
     background-color: var(--blue);
 }
 
-.font_white {
-    color: var(--white);
+ul > li > p {
+    margin: 0;
 }
